@@ -90,6 +90,7 @@ body{
 
 ul.nav li.dropdown:hover > ul.dropdown-menu{
     display: block;    
+    z-index: 9999;
 }
 
 .committee-title > ul > li {

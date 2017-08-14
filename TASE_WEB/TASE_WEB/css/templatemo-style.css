@@ -156,7 +156,7 @@ button:focus { outline: none; }
 }
 
 .tm-2-col-container { max-width: 800px; }
-.tm-3-col-container { max-width: 1080px; }
+.tm-3-col-container { max-width: 1280px; }
 
 .tm-2-col-container,
 .tm-3-col-container {
@@ -180,6 +180,7 @@ button:focus { outline: none; }
 	color: #000002;
     font-size: 1.6em;
     font-weight: 400;
+
 }
 
 /* footer */
@@ -350,7 +351,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 .cd-full-width .container-fluid { margin-top: -80px; }
 
 .tm-2-col-container-2 {		
-	max-width: 830px;
+	max-width: 80%;
 	margin: 0 auto;
 }
 
@@ -414,7 +415,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
   	margin: 0 auto;
 }
 
-.tm-textbox-padding { padding: 35px 30px; }
+.tm-textbox-padding { padding: 35px 20px; }
 
 .cd-hero-slider h2.tm-contact-info {
 	color: black;
@@ -465,8 +466,8 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	.cd-full-width .container-fluid { margin-top: -80px; }
 	.tm-2-col-container { padding: 50px; }
 	.cd-hero-slider h2.tm-text-title { font-size: 1.8em; }
-	.tm-textbox-padding { padding: 30px 40px; }
-	.tm-textbox-padding-contact { padding: 30px; }
+	.tm-textbox-padding { padding: 10px 20px; }
+	.tm-textbox-padding-contact { padding: 20px; }
 	.tm-img-gallery-container { 
 		margin: 40px auto 20px;
 		max-width: 690px; 
@@ -529,8 +530,8 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	.tm-flex { 
 		display: -ms-flexbox; 
 		display: flex;
-		-ms-flex-pack: center;
-		    justify-content: center;
+		-ms-flex-pack: left;
+		    justify-content: left;
 	}
 
 	.tm-2-col-textbox-2 {	
@@ -649,5 +650,3 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	.tm-2-col-textbox-2 { margin-right: 15px; }
 	#google-map { height: 520px; }
 }
-
-
