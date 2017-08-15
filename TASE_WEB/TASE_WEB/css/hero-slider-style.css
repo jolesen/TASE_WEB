@@ -647,7 +647,7 @@ Slider navigation
   .cd-slider-nav a {
     padding-top: 48px;
     font-size: 1.1rem;
-    text-transform: uppercase;
+    
   }
   .cd-slider-nav a::before {
     top: 18px;
@@ -703,3 +703,22 @@ Javascript disabled
     max-width: 30%;
     max-height: 40%;
 }
+
+
+
+
+
+
+
+.btn1 {  
+     display: block;  
+     border: 1px solid #ddd;  
+     width: 50px;  
+     height: 28px;  
+     text-align: center;  
+     line-height: 28px;  
+ }
+
+
+
+
