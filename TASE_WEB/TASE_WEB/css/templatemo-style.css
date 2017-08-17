@@ -589,6 +589,15 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 		height: auto;
 	}
 
+
+
+	.cd-slider-nav li >ul li {	
+		display: inline-block; 
+		width: auto;
+		height: auto;
+	}
+
+
 	.cd-slider-nav a, 
 	.navbar-nav .nav-link {
 		height: 80px;
