@@ -748,7 +748,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	min-width: 250px;
 	display: block;
 	border-bottom: none;
-	border-radius: 48px;
+	border-radius: 1px;
 	margin-bottom: 3px;
 	text-transform: none;
 	font-size: 14px;
