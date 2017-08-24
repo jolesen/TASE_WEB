@@ -211,23 +211,23 @@ Single slide style
   background-repeat: no-repeat;
 }
 .cd-hero-slider li:first-of-type {
-  background-color: #2c343b;  
+  background-color: ;  
 }
 .cd-hero-slider li:nth-of-type(2) {
-  background-color: #3d4952;  
+  background-color: ;  
 }
 .cd-hero-slider li:nth-of-type(3) {
-  background-color: #cdcdcd;  
+  background-color: ;  
 }
 .cd-hero-slider li:nth-of-type(4) {
-  background-color: #2c343b;
+  background-color: ;
   
 }
 .cd-hero-slider li:nth-of-type(5) {
-  background-color: #2c343b;  
+  background-color: ;  
 }
 .cd-hero-slider li:nth-of-type(6) {
-  background-color: #2c343b;  
+  background-color: ;  
 }
 .cd-hero-slider .cd-full-width,
 .cd-hero-slider .cd-half-width {
