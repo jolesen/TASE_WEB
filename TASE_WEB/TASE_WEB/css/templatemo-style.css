@@ -119,7 +119,7 @@ button:focus { outline: none; }
 
 .cd-slider-nav a,
 .navbar-nav .nav-link {
-	background-color: transparent;
+	background-color: ;
 	color: black;
     display: table-cell;
     font-weight: 400;
@@ -179,6 +179,12 @@ button:focus { outline: none; }
 
 .cd-hero-slider h2.tm-text-title {
 	color: #000002;
+    font-size: 1.6em;
+    font-weight: 400;
+
+}
+.cd-hero-slider h3.tm-text-title {
+	color: #FFFFFF;
     font-size: 1.6em;
     font-weight: 400;
 
