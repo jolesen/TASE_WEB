@@ -1,0 +1,196 @@
+*****************************************************************************
+
+ 11th International Symposium on Theoretical Aspects of Software Engineering
+
+
+
+                             Second Call for Papers
+
+                 
+
+                                 TASE 2017
+
+
+
+                   13 - 15 September 2017, Nice, France,
+
+                           http://tase2017.unice.fr
+
+
+* Important dates
+
+   **********************************************************
+
+     Abstract research paper       12 March 2017               
+
+     Submission research paper     19 March 2017     
+
+     Author notification           21 May   2017                 
+
+     Camera ready copy             05 June  2017   	      
+
+   **********************************************************
+
+
+
+* Objectives and scope
+
+    Now on its 11th edition, TASE is an international symposium that aims to bring 
+  together researchers and developers from academia and industry with interests 
+  in the theoretical aspects of software engineering. We invite submissions of 
+  research papers on topics covering all theoretical aspects of software 
+  engineering, including, but not limited to, the following:  
+
+  We invite submissions of research papers on topics covering all theoretical 
+  aspects of software engineering, including, but not limited to, the 
+  following:
+
+	
+
+    + Abstract interpretation 		
+
+    + Algebraic and co-algebraic specifications 
+
+    + Aspect oriented software 		
+
+    + Component-based systems 
+
+    + Cyber-physical systems 		
+
+    + Deductive verification 
+
+    + Distributed and concurrent systems 	
+
+    + Embedded and real-time systems 
+
+    + Feature-oriented software 		
+
+    + Formal verification and program semantics  
+
+    + Integration of formal methods    	
+
+    + Language design  
+
+    + Model checking and theorem proving 	
+
+    + Object-oriented systems   
+
+    + Program logics and calculi 		
+
+    + Quantum computation   
+
+    + Run-time verification and monitoring 	
+
+    + Service-oriented and cloud computing   
+
+    + Software architecture		
+
+    + Software testing and quality assurance   
+
+    + Software security and reliability 	
+
+    + Static analysis of programs   
+
+    + Type systems and behavioural typing 	
+
+    + Tools exploiting theoretical results
+
+
+
+* Venue and event
+
+    TASE 2017 will be held on the SophiaTech Campus in Sophia Antipolis, 
+    France, on 13 - 15 September 2017.
+
+
+* General chairs 
+    Eric Madelaine, INRIA, France
+    Huibiao Zhu, East China Normal University, China
+
+
+* PC chairs 
+    Frederic Mallet, University of Nice Sophia Antipolis, France
+    Min Zhang, East China Normal University, China
+
+* Organization 
+    Chair: Eric Madelaine, INRIA, France
+    Local: Agnes Cortell, INRIA, France
+    Phd Scholarship: Marie-Agnes Peraldi, France
+
+* Publication chair 
+    Marcello Bonsangue, Leiden University, Netherlands
+
+* Keynote speakers
+    Jean-Louis Colaco, ANSYS/Esterel-Technologies, France
+    Marie-Claude Gaudel, LRI, France
+    Patrice Godefroid, Microsoft Research, USA
+    
+
+* Programme committee
+    Erika Abraham, RWTH Aachen University, Germany
+    Bernhard Aichernig, Graz University of Technology, Austria
+    Toshiaki Aoki, JAIST, Japan
+    Ludovic Apvrille, Telecom ParisTech, France
+    Farhad Arbab, CWI and Leiden University, Netherlands 
+    Luis Barbosa, University of Minho, Portugal
+    Marcello Bonsangue, Leiden University, Netherlands 
+    Fr¨¦d¨¦ric Boulanger, Centrale Sup¨¦lec, France
+    Andrew Butterfield, Trinity College Dublin, Ireland
+    Hung Dang Van, UET, Vietnam National University, Vietnam
+    Rocco de Nicola, IMT - Institute for Advanced Studies Lucca, Italy
+    Julien Deantoni, Universit¨¦ Cote d'Azur, Cnrs, Inria, I3S, France
+    Yuxin Deng, East China Normal University, China
+    Ylies Falcone, Univ. Grenoble Alpes, INRIA, Grenoble, France
+    Ludovic Henrio, University Cote d'Azur, CNRS, I3S, France
+    Marieke Huisman, University of Twente, Netherlands
+    Florian, Kammueller, Middlesex University, UK
+    Olga Kouchnarenko, Universit¨¦ de Franche Comt¨¦, France 
+    Laura Kovacs, Chalmers University of Technology, Sweden
+    Guoqiang Li, Shanghai Jiao Tong University, China
+    Philippe Merle, INRIA, France
+    Kazuhiro Ogata, JAIST, Japan
+    Catuscia Palamidessi, INRIA, France
+    Jun Pang, University of Luxembourg, Luxembourg
+    Marc Pantel, Universit¨¦ de Toulouse, France
+    Shengchao Qin, Teesside University, UK
+    Alan Schmitt, INRIA, France
+    Kazunori Ueda, Waseda University, Japan
+    Eric Wong, The University of Texas at Dallas, USA
+    Wang Yi, Uppsala University, Sweden
+    Lijun Zhang, Chinese Academy of Sciences, China
+    Huibiao Zhu, East China Normal University, China
+
+* Steering Committee: 
+    Keijiro Araki (Kyushu University, JP)
+    Jifeng He (East China Normal University, CN)
+    Michael Hinchey (Lero, IE)
+    Shengchao Qin (Teesside University, UK)
+    Huibiao Zhu (East China Normal University, CN) 
+
+
+
+* Submission guidelines
+
+    We solicit contributions that describe original and unpublished research, 
+  and should not be submitted for publication elsewhere. They are limited to 
+  8 pages, must be written in English, and the format should adhere to the 
+  A4 double column IEEE style. Please prepare your manuscripts with respect 
+  to the IEEE guidelines. Papers should be submitted electronically as a PDF 
+  file via the Easychair system at 
+
+   
+
+            http://www.easychair.org/conferences/?conf=tase2017.
+
+ 
+
+  The proceedings of the TASE 2017 symposium will include all accepted papers 
+  in the proceedings (waiting for Technical co-Sponship by IEEE).
+  
+  As usual, we are now contacting the journal of Science of Computer Programming, 
+  and hopefully selected papers will be invited after the symposium to submit an 
+  extended version to a journal special issue Science of Computer Programming.
+
+
+
+******************************************************************************
